@@ -1,0 +1,8 @@
+.vs/
+x64/*
+*.sln
+OpencvTest/Release/*
+OpencvTest/resources/*
+OpencvTest/x64/*
+OpencvTest/x64/
+OpencvTest.*
