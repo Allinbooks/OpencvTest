@@ -2,7 +2,11 @@
 #include <opencv2/imgcodecs.hpp>
 #include <opencv2/highgui.hpp>
 #include <opencv2/imgcodecs.hpp>
+#include <opencv2/imgproc.hpp>
 #include <iostream>
+
+using namespace std;
+using namespace cv;
 
 class Chapter1
 {
@@ -18,5 +22,17 @@ public:
 	void ShowWebcam();
 
 };
+
+class Chapter2
+{
+public:
+	void BaseFunction();
+
+private:
+
+};
+
+
+
 
 

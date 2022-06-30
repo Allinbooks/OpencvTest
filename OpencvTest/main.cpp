@@ -1,8 +1,8 @@
 #include "myopencv.h"
 
-// int main() {
-// 	Chapter1 c1;
-// 	c1.ShowImage();
-// 
-// 	return 0;
-// }
+ int main() {
+ 	Chapter2 c2;
+    c2.BaseFunction();
+ 
+ 	return 0;
+ }

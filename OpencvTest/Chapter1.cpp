@@ -1,8 +1,5 @@
 #include "myopencv.h"
 
-using namespace std;
-using namespace cv;
-
 /*   ÏÔÊ¾Í¼Æ¬   */
 void Chapter1::ShowImage() {
 	// ÉèÖÃÍ¼Æ¬Â·¾¶
