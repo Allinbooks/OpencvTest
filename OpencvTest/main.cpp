@@ -1,8 +1,8 @@
 #include "myopencv.h"
 
  int main() {
-     Chapter3 c3;
-     c3.Resize();
+     Chapter4 c4;
+     c4.PutTest();
  
  	 return 0;
  }

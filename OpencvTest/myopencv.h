@@ -38,10 +38,15 @@ public:
 	void Resize();
 	// ²Ã¼ô
 	void Crop();
-
-
 };
 
+class Chapter4
+{
+public:
+	void DrawShape();
+	void PutTest();
+
+};
 
 
 
