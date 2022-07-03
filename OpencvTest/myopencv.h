@@ -45,7 +45,12 @@ class Chapter4
 public:
 	void DrawShape();
 	void PutTest();
+};
 
+class Chapter5
+{
+public:
+	void WarpPerspective();
 };
 
 
