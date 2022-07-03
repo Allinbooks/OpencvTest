@@ -53,6 +53,11 @@ public:
 	void WarpPerspective();
 };
 
+class Chapter6
+{
+public:
+	void ColorDetection();
+};
 
 
 

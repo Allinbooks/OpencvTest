@@ -1,8 +1,10 @@
 #include "myopencv.h"
 
  int main() {
-     Chapter5 c5;
-     c5.WarpPerspective();
- 
+     Chapter6 c6;
+     c6.ColorDetection();
+
+     
+
  	 return 0;
  }
