@@ -32,6 +32,16 @@ private:
 
 };
 
+class Chapter3
+{
+public:
+	void Resize();
+	// ²Ã¼ô
+	void Crop();
+
+
+};
+
 
 
 
