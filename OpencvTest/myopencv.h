@@ -3,6 +3,9 @@
 #include <opencv2/highgui.hpp>
 #include <opencv2/imgcodecs.hpp>
 #include <opencv2/imgproc.hpp>
+// face detection
+#include <opencv2/objdetect.hpp>
+
 #include <iostream>
 
 using namespace std;
@@ -64,6 +67,12 @@ class Chapter7
 public:
 	void ShapeDetection();
 	void getContours(Mat imgDil, Mat img);
+};
+
+class Chapter8
+{
+public:
+	void FaceDetection();
 };
 
 

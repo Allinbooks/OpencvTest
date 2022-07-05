@@ -1,8 +1,8 @@
 #include "myopencv.h"
 
  int main() {
-     Chapter7 c7;
-     c7.ShapeDetection();
+     Chapter8 c8;
+     c8.FaceDetection();
 
  	 return 0;
  }
