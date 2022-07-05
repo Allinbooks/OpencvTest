@@ -59,5 +59,11 @@ public:
 	void ColorDetection();
 };
 
+class Chapter7
+{
+public:
+	void ShapeDetection();
+	void getContours(Mat imgDil, Mat img);
+};
 
 
